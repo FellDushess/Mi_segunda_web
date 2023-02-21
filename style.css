@@ -1,0 +1,28 @@
+h1{
+    color:magenta;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+h2{
+    color:aqua;
+    font-family: 'Inter', sans-serif;
+    text-align: right;
+}
+
+h3{
+    color:aquamarine;
+    font-family: 'Inter', sans-serif;
+    text-align: right;
+}
+
+h4{
+    color:rgb(59, 184, 184);
+    font-family: 'Dosis', sans-serif;
+    text-align: right;
+}
+
+body{
+    background-color:rgb(15, 0, 0);
+}
